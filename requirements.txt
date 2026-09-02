@@ -5,3 +5,13 @@ pypdf>=4.2.0
 python-docx>=1.1.2
 watchtower>3.0.1
 pandas>=2.2.0
+
+
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the Streamlit application:
+
+Bash
+streamlit run app.py
