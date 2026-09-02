@@ -1,0 +1,9 @@
+1. SERVICES AND SOWs: Provider shall perform services as specified in Statements of Work (SOW) executed under this Master Services Agreement.
+
+2. LIMITATION OF LIABILITY: Neither party's aggregate liability under this Agreement shall exceed the total fees paid in the twelve (12) months preceding the claim.
+
+3. INTELLECTUAL PROPERTY: All Deliverables created specifically for Customer shall be considered "Work Made for Hire" and owned exclusively by Customer.
+
+4. TERMINATION: Either party may terminate for convenience with 30 days prior written notice.
+
+5. INDEMNIFICATION: Provider shall defend and indemnify Customer against third-party intellectual property infringement claims.
